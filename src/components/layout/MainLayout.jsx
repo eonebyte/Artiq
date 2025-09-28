@@ -104,8 +104,8 @@ const MainLayout = ({ children }) => {
                         </div>
                         {!collapsed && (
                             <div className="ml-3">
-                                <p className="text-sm font-medium">John Doe</p>
-                                <p className="text-xs text-gray-500">john@example.com</p>
+                                <p className="text-sm font-medium">Ahmad Fauzi Ridwan</p>
+                                <p className="text-xs text-gray-500">support@fauzi.biz.id</p>
                             </div>
                         )}
                     </div>
@@ -127,7 +127,7 @@ const MainLayout = ({ children }) => {
                             <div className="w-8 h-8 bg-gray-100 rounded-full flex items-center justify-center">
                                 <UserCircleIcon className="w-5 h-5 text-gray-700" />
                             </div>
-                            <span className="text-sm font-medium">John Doe</span>
+                            <span className="text-sm font-medium">Ahmad Fauzi Ridwan</span>
                         </div>
                     </div>
                 </header>

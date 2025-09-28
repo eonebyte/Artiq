@@ -15,7 +15,7 @@ const Home = () => {
             id: 1,
             title: "Getting Started with React Hooks",
             excerpt: "Learn how to use React Hooks to build better functional components with state management.",
-            author: "John Doe",
+            author: "Ahmad Fauzi Ridwan",
             date: "2025-09-25",
             status: "published",
             views: 1234,
@@ -37,7 +37,7 @@ const Home = () => {
             id: 3,
             title: "Building Responsive Layouts with Tailwind CSS",
             excerpt: "Master responsive design using Tailwind CSS utility classes for modern web applications.",
-            author: "Mike Johnson",
+            author: "Mike Ahmadson",
             date: "2025-09-23",
             status: "published",
             views: 2156,
@@ -160,7 +160,7 @@ const Home = () => {
 
             {/* Welcome Section */}
             <div className="bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg p-6 text-white">
-                <h2 className="text-2xl font-bold mb-2">Welcome back, John!</h2>
+                <h2 className="text-2xl font-bold mb-2">Welcome back, Ahmad!</h2>
                 <p className="text-blue-100 mb-4">
                     You have 3 new notifications and 5 pending posts to review.
                 </p>
