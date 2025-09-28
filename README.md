@@ -1,9 +1,9 @@
 # Artiq CMS
 
-**Artiq** adalah CMS engine untuk **agensi dan freelancer**, memudahkan pembuatan website profesional dengan cepat.
+**Artiq** adalah CMS engine untuk **agensi dan freelancer**, mempermudah untu mengelola content artikel website profesional.
 
 **Dashboard**
-(public/artiq.PNG)
+![Dashboard](public/artiq.PNG)
 ---
 **Posts**
 ![Post](public/post.PNG)
